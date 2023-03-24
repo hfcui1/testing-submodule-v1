@@ -1,0 +1,3 @@
+[submodule "apps"]
+	path = apps
+	url = git@github.com:hfcui1/testing-submodule-child.git
